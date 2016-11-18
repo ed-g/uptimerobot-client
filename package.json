@@ -2,13 +2,14 @@
   "name": "uptimerobot-client",
   "version": "1.0.0",
   "description": "Client for uptime robot api",
-  "main": "index.js",
+  "main": "copy-monitors.js",
   "scripts": {
     "sjs": "./node_modules/.bin/sjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "ed-g",
+  "license": "GPL-3.0+",
+  "repository": "https://github.com/ed-g/uptimerobot-client",
   "dependencies": {
     "bluebird": "^3.4.6",
     "immutable": "^3.8.1",
