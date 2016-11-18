@@ -1,0 +1,10 @@
+{
+    "file-comment": 
+        "Copy this file to ../config/settings.json and customize its values. The entire config/ directory is in .gitignore to help avoid uploading api keys etc. git repositories. Any keys, such as this one which ending in -comment are comments ;-) ;-)",
+    "settingsVersion": 1.0,
+    "settingsVersion-comment": "Version for settings file, in case we need it.",
+    "uptimeRobotApiKey": "uXXXXXX-xXXXXXXXXXXXXXXXXXXXXXXX",
+    "uptimeRobotApiKey-comment": "Primary uptime robot API key. See https://uptimerobot.com/dashboard.php#mySettings",
+    "dest_uptimeRobotApiKey": "uXXXXXX-xXXXXXXXXXXXXXXXXXXXXXXX",
+    "dest_uptimeRobotApiKey-comment": "Another uptime robot API key which acts as destination for a copy operation."
+}

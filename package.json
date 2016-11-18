@@ -1,0 +1,23 @@
+{
+  "name": "uptimerobot-client",
+  "version": "1.0.0",
+  "description": "Client for uptime robot api",
+  "main": "index.js",
+  "scripts": {
+    "sjs": "./node_modules/.bin/sjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "immutable": "^3.8.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.18.2",
+    "babel-preset-latest": "^6.16.0"
+  }
+}
